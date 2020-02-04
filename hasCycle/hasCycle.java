@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 /**
  * Description of solution: Using Floyd's Cycle Detection algorithm: Use two pointers to move through list. One pointer is one space ahead of other.
- * 							            If the two pointers are at the same node then there is a cycle.
+                            If the two pointers are at the same node then there is a cycle.
  */
 
 
