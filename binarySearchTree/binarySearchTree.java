@@ -136,14 +136,9 @@ public class BinarySearchTree {
 
 		startTime = System.currentTimeMillis();
 		BinarySearchTree bst = new BinarySearchTree(); 
-		/**
-		 * TODO:
-		 * Read in the names from the names.txt file, and
-		 * Insert all the names in the BST by calling:
-		 *  insert(name)
-		 */
+		
 		try {
-			File file = new File("C:\\Users\\harbe\\OneDrive\\Documents\\School\\CS146-2\\HW5\\src\\a5\\names.txt");
+			File file = new File("C:\\Users\\harbe\\Documents\\names.txt");
 			BufferedReader br = new BufferedReader(new FileReader(file)); 
 			String line = br.readLine();
 			while(line != null) {
