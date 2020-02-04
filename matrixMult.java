@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 
 /**
- * Description of solution: Using Strassen’s matrix multiplication method to multiply square matrices
+ * Uses Strassen’s matrix multiplication method to multiply square matrices
  */
  
 public class matrixMult {
