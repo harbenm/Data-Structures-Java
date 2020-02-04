@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 
 /**
- * Description of solution: Recursively returns n choose k by adding (decremented n elements choose k distinct elements) with (decremented elements choose decremented k distinct elements)
+ * Recursively returns n choose k by adding (decremented n elements choose k distinct elements) with (decremented elements choose decremented k distinct elements)
  */
 
 
