@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import static org.junit.Assert.*;
 
 /**
- * Description of solution: Uses recursion to find all possible sums of elements in ArrayList.
+ * Uses recursion to find all possible sums of elements in ArrayList.
  * Adds single numbers, then adds all others numbers to that number, then recurses to next number.
  */
 
