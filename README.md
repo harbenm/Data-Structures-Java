@@ -1,2 +1,2 @@
 # Data Structures (Java)
-Various data structures projects ranging from linked lists to sorting algorithms.
+* blah: Uses recursion to find all possible sums of elements in ArrayList. Adds single numbers, then adds all others numbers to that number, then recurses to next number.
