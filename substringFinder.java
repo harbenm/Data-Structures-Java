@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import static org.junit.Assert.*;
 
 /**
- * Description of solution: Uses recursion to find substrings of s. Appends characters to each substring to get substrings that are non-contiguous.
+ * Uses recursion to find substrings of s. Appends characters to each substring to get substrings that are non-contiguous.
  */
 
 public class substringFinder{
